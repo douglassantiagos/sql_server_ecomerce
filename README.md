@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-A criação do projeto foi para se basear em um ecommerce e estudar todos os tipos de situações do dia a dia com quem trabalha com banco de dados.
+A criação do projeto foi para se basear em um ecommerce e estudar todos os tipos de situações do dia a dia como quem trabalha com banco de dados.
 
 O que foi estudado:
 
