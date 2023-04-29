@@ -17,8 +17,17 @@ A aplicação contém as seguintes funcionalidades:
 - Criação do Banco de Dados
 - Criação das tabelas
 - Inserção de dados nas tabelas
-- Consulta de dados
-- 
+- Consultas de dados utilizando:
+  > Clausula Where
+  > Operadores de comparação
+  > Operadores Lógicos
+  > Operadores Aritméticos
+  > Ordenação
+  > Agrupamento
+  > Junção de tabelas
+  > Função de conversão de dados
+
+
 
 ## 🔖 Layout
 
