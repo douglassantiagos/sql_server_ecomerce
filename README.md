@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ignite-timer" title="ignite-timer" src="https://imgur.com/wPzP17J.png" width="100px" />
+  <img alt="sqlserver" title="sqlserver" src="https://imgur.com/wPzP17J.png" width="100px" />
   <p>SQL Server - Ecommerce</p>  
 </h1>
 
