@@ -30,4 +30,4 @@ O que foi estudado:
 
 ---
 
-Criado by Douglas Santiago :wave:
+Plataforma de ensino: <a href="https://www.dio.me/">DIO</a> :rocket:
